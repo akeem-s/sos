@@ -8,6 +8,5 @@ class PhonesController < ApplicationController
   end
 
   def call
-    binding.pry
   end 
 end
