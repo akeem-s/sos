@@ -2,6 +2,8 @@ Rails.application.routes.draw do
 
   root 'phones#input'
   get 'phones/input', :to => 'phones#input'
+  post 'phones/call', :to => 'phones#call'
+  
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

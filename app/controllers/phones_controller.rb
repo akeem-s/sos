@@ -4,6 +4,10 @@ class PhonesController < ApplicationController
   protect_from_forgery with: :exception
 
   def input
-    
+
   end
+
+  def call
+    binding.pry
+  end 
 end
