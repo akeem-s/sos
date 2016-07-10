@@ -1,4 +1,4 @@
-# SOS
+#
 SOS is a simple, in progress app that allows users to call themselves so they can escape undesirable social situations. 
 
 ## User manual
