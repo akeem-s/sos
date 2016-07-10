@@ -1,7 +1,6 @@
-#
 SOS is a simple, in progress app that allows users to call themselves so they can escape undesirable social situations. 
 
-## User manual
+User manual
 1. Navigate to sos site
 2. type your phone number and submit
 3. Say the following: 
@@ -11,7 +10,7 @@ SOS is a simple, in progress app that allows users to call themselves so they ca
 4. Whisper "sorry" to whoever you didnt feel like talking to. 
 5. Walk away.  
 
-### Technologies
+Technologies
 
 Ruby, Ruby on Rails, Twillio API
 
