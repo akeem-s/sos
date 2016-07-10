@@ -1,28 +1,17 @@
-== README
+# SOS
+SOS is a simple, in progress app that allows users to call themselves so they can escape undesirable social situations. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## User manual
+1. Navigate to sos site
+2. type your phone number and submit
+3. Say the following: 
 
-Things you may want to cover:
+  "Hello"..."Yes, this is he/she"..."Yes, yes, I have a moment to talk"
 
-* Ruby version
+4. Whisper "sorry" to whoever you didnt feel like talking to. 
+5. Walk away.  
 
-* System dependencies
+### Technologies
 
-* Configuration
+Ruby, Ruby on Rails, Twillio API
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
